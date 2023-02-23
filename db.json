@@ -1,0 +1,39 @@
+{
+  "leaning-profile": [
+    {
+      "id": 1,
+      "alias": "JohnDoe",
+      "competency_level_name": "Intermediate",
+      "learning_direction_status": "view",
+      "created_status": true
+    },
+    {
+      "id": 2,
+      "alias": "JaneSmith",
+      "competency_level_name": "Beginner",
+      "learning_direction_status": "na",
+      "created_status": false
+    },
+    {
+      "id": 3,
+      "alias": "BobJohnson",
+      "competency_level_name": "Expert",
+      "learning_direction_status": "view",
+      "created_status": true
+    },
+    {
+      "id": 4,
+      "alias": "AliceLee",
+      "competency_level_name": "Advanced",
+      "learning_direction_status": "view",
+      "created_status": false
+    },
+    {
+      "id": 5,
+      "alias": "SamuelChang",
+      "competency_level_name": "Intermediate",
+      "learning_direction_status": "na",
+      "created_status": true
+    }
+  ]
+}
